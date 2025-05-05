@@ -24,4 +24,4 @@ include/lua - `lua-headers`
 
 include/json - `nlohmann json-headers`
 
-lib/ - `all .dll file's`
+lib/ - `all .dll/.o/.a file's`
